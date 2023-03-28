@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Introducing myself!
+Hi there! I'm Roadra, a (mostly) self taught data nerd! I have a background in mathematics. I am currently looking to transition my career into data analytics. 
+## Projects 
+You can find all my data projects in my portfolio.
+## Skills
+- Data preparation, quality assurance, and analysis
+- Dashboard development and reporting
+- Exploratory data analysis
+## Tools
+- Data exploration: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Python, Excel
+- Visuals/Reporting: Tableu, Seaborn, Mathplotlib, Excel
