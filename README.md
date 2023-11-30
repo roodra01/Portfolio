@@ -1,27 +1,42 @@
-### Hi there 👋
 
-<!--
-**roodra01/roodra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Introducing myself!
-Hi there! I'm Roadra, a (mostly) self taught data nerd! I have a background in mathematics. I am currently looking to transition my career into data analytics. 
+Hi there! I'm Roadra, a data/math nerd! I have a background in mathematics. I am currently looking to progress my careeer into a more analytic based position. 
+
 ## Projects 
-You can find all my data projects in my portfolio.
+
+
+
+
+### [Analysis of "Pizza Runner" data](https://github.com/roodra01/Case-Study-2---Pizza-Runner)
+
+<img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
+
+
+* Cleaned the data and then answered common questions a business might ask a data analyst by utilizing advanced SQL concepts such as correlated joins, window functions, arrays, case, and more.
+
+* Shows my prowess in SQL and general ability to pull out important information from data that might be hard to
+see.
+
+
+### [Analysis of Global Terrorism data](https://colab.research.google.com/drive/1Yg_XA-FWajYuJaiAl4EnqC2J8w4jc97X?usp=sharing)
+
+* Cleaned and analyzed a large and messy, real world data-set and pulled out meaningful insights. 
+
+* Created a Tableau dashboard to summarize my insights 
+* Great example of storytelling through data.
+  
+### [Insights on Customer Churn](https://1drv.ms/x/s!AsruwAKsyd5KgeB3L2ASSx_1B598dA?e=gbGKXs)
+![image](https://github.com/roodra01/Projects/assets/129188359/ae211577-7f9f-4f7d-a690-fec214ed8891)
+
+
+* Analyzed a large data set to find insights on what could be causing customer churn and how to limit it using pivot tables and graphs . 
+
+* Created a dashboard in excel to summarize my insights and gave recommendations for further action based on data analysis .
+
 ## Skills
 - Data preparation, quality assurance, and analysis
 - Dashboard development and reporting
 - Exploratory data analysis
 ## Tools
-- Data exploration: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Python, Excel
+- Data exploration: SQL (PostgreSQL, MSSQL, Google BigQuery), Python, Excel
 - Visuals/Reporting: Tableu, Seaborn, Mathplotlib, Excel
