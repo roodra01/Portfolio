@@ -1,6 +1,6 @@
 
 ## Introducing myself!
-Hi there! I'm Roadra, a data/math nerd! I have a background in mathematics. I am currently looking to progress my careeer into a more analytic based position. 
+Hi there! I'm Roadra, a data/math nerd! I have a background in mathematics. I am currently looking to progress my career into a more analytic based position. 
 
 ## Projects 
 
