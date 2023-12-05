@@ -11,7 +11,8 @@ Hi there! I'm Roadra, a data/math nerd! I have a background in mathematics. I am
 
 <img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
 
-Link to project:https://github.com/roodra01/Case-Study-2---Pizza-Runner
+
+Link to project: https://github.com/roodra01/Case-Study-2---Pizza-Runner
 
 * Cleaned the data and then answered common questions a business might ask a data analyst by utilizing advanced SQL concepts such as correlated joins, window functions, arrays, case, and more.
 
@@ -26,8 +27,8 @@ see.
 
 Link to project: https://colab.research.google.com/drive/1Yg_XA-FWajYuJaiAl4EnqC2J8w4jc97X?usp=sharing
 Tableau dashboard: https://public.tableau.com/views/Terrorism_17013648803280/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
-* Cleaned and analyzed a large and messy, real world data-set and pulled out meaningful insights. 
 
+* Cleaned and analyzed a large and messy, real world data-set and pulled out meaningful insights. 
 * Created a Tableau dashboard to summarize my insights 
 * Great example of storytelling through data.
   
