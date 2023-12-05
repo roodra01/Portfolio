@@ -26,6 +26,8 @@ see.
 
 
 Link to project: https://colab.research.google.com/drive/1Yg_XA-FWajYuJaiAl4EnqC2J8w4jc97X?usp=sharing
+
+
 Tableau dashboard: https://public.tableau.com/views/Terrorism_17013648803280/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 * Cleaned and analyzed a large and messy, real world data-set and pulled out meaningful insights. 
