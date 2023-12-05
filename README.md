@@ -20,6 +20,11 @@ see.
 
 ### [Analysis of Global Terrorism data](https://colab.research.google.com/drive/1Yg_XA-FWajYuJaiAl4EnqC2J8w4jc97X?usp=sharing)
 
+![image](https://github.com/roodra01/Portfolio/assets/129188359/623655c7-9c89-4b52-8418-5e6c95721ad2)
+
+
+
+Tableau dashboard: https://public.tableau.com/views/Terrorism_17013648803280/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
 * Cleaned and analyzed a large and messy, real world data-set and pulled out meaningful insights. 
 
 * Created a Tableau dashboard to summarize my insights 
