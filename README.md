@@ -42,6 +42,9 @@ Link to project: https://1drv.ms/x/s!AsruwAKsyd5KgeB3L2ASSx_1B598dA?e=gbGKXs
 
 * Created a dashboard in excel to summarize my insights and gave recommendations for further action based on data analysis .
 
+
+https://tome.app/roodra01/crm-analysis-report-clq2u1ykm00pjmx8gtzjqjnen
+
 ## Skills
 - Data preparation, quality assurance, and analysis
 - Dashboard development and reporting
