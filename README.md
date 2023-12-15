@@ -18,7 +18,7 @@ Link to project: https://tome.app/roodra01/crm-analysis-report-clq2u1ykm00pjmx8g
 Link to data: https://drive.google.com/drive/folders/1MQOoi-j7M_52dUostEx-CU9Sb3IjuRVK?usp=drive_link
 
 * Cleaned and analyzed CRM data to find insights on our customer base and recommendations on marketing campaigns based on A/B test.
-* Created a presentation report that would translate this data into easy to understand graphs and gave interpretations/recommendations for next steps.
+* Created a presentation report for stakeholders that would translate this data into easy to understand graphs and gave interpretations/recommendations for next steps.
 
 
 ### [Analysis of Global Terrorism data](https://colab.research.google.com/drive/1Yg_XA-FWajYuJaiAl4EnqC2J8w4jc97X?usp=sharing)
