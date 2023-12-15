@@ -7,11 +7,12 @@ Hi there! I'm Roadra, a data/math nerd! I have a background in mathematics. I am
 
 ### Customer Relationship Management Report 
 
+![image](https://github.com/roodra01/Portfolio/assets/129188359/1e755618-2ce6-4c93-8fbb-c1e46a4266b0)
 
-![image](https://github.com/roodra01/Portfolio/assets/129188359/827ed81b-bf64-429f-8564-0301ecd5de44)
 
 
 Link to project: https://tome.app/roodra01/crm-analysis-report-clq2u1ykm00pjmx8gtzjqjnen
+
 
 
 Link to data: https://drive.google.com/drive/folders/1MQOoi-j7M_52dUostEx-CU9Sb3IjuRVK?usp=drive_link
