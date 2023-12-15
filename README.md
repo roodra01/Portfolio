@@ -5,19 +5,16 @@ Hi there! I'm Roadra, a data/math nerd! I have a background in mathematics. I am
 ## Projects 
 
 
+### Customer Relationship Management Report 
 
 
-### [Analysis of "Pizza Runner" data](https://github.com/roodra01/Case-Study-2---Pizza-Runner)
+![image](https://github.com/roodra01/Portfolio/assets/129188359/b7778320-e92a-4505-a4d9-c45bd064a4ea)
 
-<img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
+Link to project: https://tome.app/roodra01/crm-analysis-report-clq2u1ykm00pjmx8gtzjqjnen
+Link to data: https://drive.google.com/drive/folders/1MQOoi-j7M_52dUostEx-CU9Sb3IjuRVK?usp=drive_link
 
-
-Link to project: https://github.com/roodra01/Case-Study-2---Pizza-Runner
-
-* Cleaned the data and then answered common questions a business might ask a data analyst by utilizing advanced SQL concepts such as correlated joins, window functions, arrays, case, and more.
-
-* Shows my prowess in SQL and general ability to pull out important information from data that might be hard to
-see.
+* Cleaned and analyzed CRM data to find insights on our customer base and recommendations on marketing campaigns based on A/B test.
+* Created a presentation report that would translate this data into easy to understand graphs and gave interpretations/recommendations for next steps.
 
 
 ### [Analysis of Global Terrorism data](https://colab.research.google.com/drive/1Yg_XA-FWajYuJaiAl4EnqC2J8w4jc97X?usp=sharing)
@@ -33,6 +30,20 @@ Tableau dashboard: https://public.tableau.com/views/Terrorism_17013648803280/Das
 * Cleaned and analyzed a large and messy, real world data-set and pulled out meaningful insights. 
 * Created a Tableau dashboard to summarize my insights 
 * Great example of storytelling through data.
+
+### [Analysis of "Pizza Runner" data](https://github.com/roodra01/Case-Study-2---Pizza-Runner)
+
+<img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
+
+
+Link to project: https://github.com/roodra01/Case-Study-2---Pizza-Runner
+
+* Cleaned the data and then answered common questions a business might ask a data analyst by utilizing advanced SQL concepts such as correlated joins, window functions, arrays, case, and more.
+
+* Shows my prowess in SQL and general ability to pull out important information from data that might be hard to
+see.
+
+
   
 ### [Insights on Customer Churn](https://1drv.ms/x/s!AsruwAKsyd5KgeB3L2ASSx_1B598dA?e=gbGKXs)
 ![image](https://github.com/roodra01/Projects/assets/129188359/ae211577-7f9f-4f7d-a690-fec214ed8891)
@@ -42,8 +53,6 @@ Link to project: https://1drv.ms/x/s!AsruwAKsyd5KgeB3L2ASSx_1B598dA?e=gbGKXs
 
 * Created a dashboard in excel to summarize my insights and gave recommendations for further action based on data analysis .
 
-
-https://tome.app/roodra01/crm-analysis-report-clq2u1ykm00pjmx8gtzjqjnen
 
 ## Skills
 - Data preparation, quality assurance, and analysis
